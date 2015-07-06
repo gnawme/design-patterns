@@ -1,0 +1,11 @@
+5:
+	orderNum	= 5
+	comment		= Next of singles or last.
+	size		= 50000
+	packager	= HardPack
+	plastic		= PET
+	moldLoc		= mill
+	mold		= hero
+	finish		= rippled
+	color		= green
+	endOfOrder

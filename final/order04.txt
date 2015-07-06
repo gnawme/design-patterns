@@ -1,0 +1,11 @@
+4:
+	orderNum	= 4
+	comment		= Next of singles or last.
+	size		= 50000
+	packager	= HardPack
+	plastic		= Polyethelene
+	moldLoc		= mill
+	mold		= hero
+	finish		= rippled
+	color		= yellow
+	endOfOrder
